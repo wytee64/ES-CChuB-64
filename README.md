@@ -20,6 +20,6 @@ This presentation is intended for aspiring developers and tech enthusiasts looki
 - HTML/CSS
 - Monokai theme for syntax highlighting
 
-## What do do Next?
+## What to do Next?
 - Make a Contribution to the slides 
 
